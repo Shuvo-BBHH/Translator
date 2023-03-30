@@ -2,6 +2,11 @@
 binary encreption decreption
 💓binary💓💓binary💓💓binary💓
 💓Text to binary   💓💓binary to text converter💓
+
+# Connvert English in any Language
+# Bainary Decoder
+# Baynary Converter3
+
 commanad👇
 
 git clone https://github.com/Shuvo-BBHH/binary
