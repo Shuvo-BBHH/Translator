@@ -9,9 +9,9 @@ binary encreption decreption
 
 commanad👇
 
-git clone https://github.com/Shuvo-BBHH/binary
+git clone https://github.com/Shuvo-BBHH/Translator
 
-cd binary
+cd Translator
 
 python mahdi.py
 
