@@ -9,6 +9,8 @@ binary encreption decreption
 
 commanad👇
 
+pip install deep_translator
+
 git clone https://github.com/Shuvo-BBHH/Translator
 
 cd Translator
